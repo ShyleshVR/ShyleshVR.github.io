@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "kaboom": "^3000.1.17",
     "terser": "^5.34.1",
     "vite": "^5.4.1"
   }
